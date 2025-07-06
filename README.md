@@ -1,4 +1,4 @@
-# 🚌 AngkotMap
+# 🚌 Angkut.ID
 
 > 🚐 *Waze for traditional public transport in Indonesia.*  
 > Crowd-powered, route-aware, and built for the chaos of angkot life.
@@ -7,7 +7,7 @@
 
 ## 🧠 About
 
-**AngkotMap** is a lightweight web app that maps angkot routes in Indonesian cities, crowdsources sightings, and helps commuters figure out:
+**Angkut.ID** is a lightweight web app that maps angkot routes in Indonesian cities, crowdsources sightings, and helps commuters figure out:
 - Where an angkot goes
 - When it last passed nearby
 - Where to catch a connecting ride
